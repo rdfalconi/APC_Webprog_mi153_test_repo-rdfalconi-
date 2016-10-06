@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<title>MY HOMEPAGE</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+<body>
+
+
+<header class="w3-display-container w3-content" style="max-width:1500px">
+  <img class="w3-image" src="rainrain.png" alt="Me" width="1500" height="600">
+ <div class="w3-display-middle w3-padding-xlarge w3-border w3-wide w3-text-light-grey w3-center">
+    <h1 class="w3-hide-medium w3-hide-small w3-xxxlarge">RAIN POTOZA</h1>
+    <h3 class="w3-hide-medium w3-hide-small">MI-153</h3>
+ </div>
+</header>
+
+<div class="w3-content w3-padding-jumbo w3-margin-top" id="portfolio">
+
+ 
+  <img src="adventure.jpg" class="w3-image" width="1000" height="500">
+  <img src="sports.jpg" class="w3-image w3-margin-top" width="1000" height="500">
+
+
+  
+  <div class="w3-light-grey w3-padding-xlarge w3-padding-32 w3-margin-top" id="contact">
+   <FONT FACE = "Times New Roman" SIZE = "4" COLOR="BLACK">     
+ <style>
+ p.solid {border-style: solid;
+    border-width: 5px; 
+  }
+ h1{ letter-spacing: 6px;
+     }
+</style>
+
+ <h1><p class="solid" spacing="24px"> I N T E R E S T  && H O B B I E S</p></h1>
+ <table style="width:100%" border="1px solid black" align="center">
+  <tr>
+    <th>New Adventures</th>
+    <th>Surf Internet</th>
+  </tr>
+  <tr>
+    <th>New Experience</th>
+    <th>Watch movies/series</th>
+  </tr>
+  <tr>
+    <th>Sports</th>
+    <th>Try different foods</th>
+ </tr>
+ </table>    
+    
+	
+</div>
+<CENTER>
+<p><a href="https://twitter.com/">Twitter<a/></p>
+   <a href="https://facebook.com/">Facebook<a/></p>
+   
+<audio controls>
+<source src="LoveMyself.mp3" type="audio/mpeg">
+</body>
+</html>
