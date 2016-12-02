@@ -37,9 +37,6 @@
 
 <div class="w3-content w3-padding-jumbo w3-margin-top" id="portfolio">
 
- 
-  <img src="league.jpg" class="w3-image" width="1000" height="500">
-  <img src="basketball.jpe" class="w3-image w3-margin-top" width="1000" height="500">
 
 
   
