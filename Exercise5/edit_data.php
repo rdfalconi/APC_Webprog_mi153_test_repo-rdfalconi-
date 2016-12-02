@@ -27,8 +27,8 @@
 		{
 ?>
 			<script type="text/javascript">
-				alert('SUCCESFULLY UPDATED');
-				window.location.href='index.php';
+				alert('DATA UPDATE SUCCESS');
+				window.location.href='myhome.php';
 			</script>
 			<?php
 		}
@@ -56,7 +56,7 @@
 				label{
 					font-family: Times New Roman;
 					font-size: 50px;
-					color: red;
+					color: White;
 				}
 	
 				input{
@@ -65,8 +65,8 @@
 				}
 				
 				button{
-					background-color: white;
-					color: black;
+					background-color: black;
+					color: white;
 					border: white;
 					font-family: Times New Roman;
 					font-size: 32px;
@@ -79,7 +79,7 @@
 				}
 	
 				.lft{
-					font-family: Times New Roman;
+					font-family: simplifica;
 					font-size: 23px;
 					display: inline-block;
 					width: 150px;
@@ -94,8 +94,10 @@
 			</style>
 		</head>
 			<body>
+			
+<center><a href="myhome.php" target="_self">Back to main page<a/>
 				<center>
-					<label>Data is here</label>
+					<label>NEED TO CHANGE SOMETHING? CHANGE IT HERE!</label>
 					<br><br>
 					<div id="content">
 						<form method="post">
@@ -114,7 +116,7 @@
 							<b class="lft">GENDER</b>
 								<input type="text" name="gender" value="<?php echo $fetched_row['gender']; ?>"  /></br></br>
 	
-							<b class="lft">CELLPHONE NUMBER</b>
+							<b class="lft">PHONE NUMBER</b>
 								<input type="text" name="cNum" value="<?php echo $fetched_row['cNum']; ?>"  /></br></br>
 	
 							<b class="lft">COMMENT</b>
