@@ -53,7 +53,7 @@
      }
 </style>
 
- <h1><p class="solid" spacing="24px"> I N T E R E S T  && H O B B I E S</p></h1>
+ <h1><p class="solid" spacing="24px" align="center"> H O B B I E S </p></h1>
  <table style="width:100%" border="1px solid black" align="center">
   <tr>
     <th>Travel</th>
