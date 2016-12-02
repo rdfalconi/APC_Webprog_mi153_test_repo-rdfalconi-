@@ -28,7 +28,7 @@
 
 
 <header class="w3-display-container w3-content" style="max-width:1500px">
-  <img class="w3-image" src="travel.jpe" alt="Me" width=1400" height="500">
+
  <div class="w3-display-middle w3-padding-xlarge w3-border w3-wide w3-text-light-grey w3-center">
     <h1 class="w3-hide-medium w3-hide-small w3-xxxlarge">Richard Falconi</h1>
     <h3 class="w3-hide-medium w3-hide-small">MI-153</h3>
@@ -48,6 +48,7 @@
   }
  h1{ letter-spacing: 6px;
      }
+ body{background-image: url(red)}
 </style>
 
  <h1><p class="solid" spacing="24px" align="center"> H O B B I E S </p></h1>
