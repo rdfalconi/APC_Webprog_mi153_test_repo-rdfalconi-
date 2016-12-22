@@ -23,7 +23,7 @@
 		// sql query for update data into database
 		 
 		// sql query execution function
-		if(mysqli_query($con,$sql_query)
+		if(mysqli_query($con,$sql_query))
 		{
 ?>
 			<script type="text/javascript">
