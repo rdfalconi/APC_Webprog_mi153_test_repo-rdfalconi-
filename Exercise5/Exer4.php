@@ -148,7 +148,7 @@ function myEmoment() {
 			}
 		  
 			if (empty($_POST["nName"])) {
-				$nNameErr = "NICKNAME IS REQUIRED "
+				$nNameErr = "NICKNAME IS REQUIRED ";
 			} else {
 				$nName = test_input($_POST["nName"]);
 				if (!preg_match("/^[a-zA-Z ]*$/",$nName)) {
