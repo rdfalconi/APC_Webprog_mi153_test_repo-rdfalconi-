@@ -127,8 +127,8 @@ function myEmoment() {
 	
 </div>
 <CENTER>
-<p><a href="https://twitter.com/">Twitter<a/></p>
-   <a href="https://facebook.com/">Facebook<a/></p>
+<p><a href="https://twitter.com/">Twitter<a/></p
+   <a href="https://facebook.com/">Facebook<a/></p
    
 
 <audio controls>
