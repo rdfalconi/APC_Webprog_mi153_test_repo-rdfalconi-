@@ -202,7 +202,7 @@ function myEmoment() {
 
 		<h3>Send us message!</h3>
 
-		<form method="post" >
+		<form method="post" 
 			<div class="input">
 				<div class="col1">
 					NAME:
